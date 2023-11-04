@@ -5,11 +5,11 @@
 # else:
 #     print("voce é menor de idade")
 
-"""media = float(input("digite sua media: "))
+media = float(input("digite sua media: "))
 
 if (media >= 7):
     print("voce foi aprovado")
 elif (media >= 5):
     print("voce foi para a recuperação")
 else:
-    print("voce foi reprovado")"""
+    print("voce foi reprovado")

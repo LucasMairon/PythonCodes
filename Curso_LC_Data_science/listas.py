@@ -53,10 +53,10 @@ lista.sort()
 
 #FUNÇÕES PARA LISTAS
 #len:retorna o tamanho da lista
-quant_elementos_na_lista=len(lista)
+quant_elementos_na_lista = len(lista)
 
 #sum:soma todos os elementos da lista
-soma_elementos=sum(lista)
+soma_elementos = sum(lista)
 
 #min e max:retornam o menor e o maior valor da lista
 maior_n_lista=max(lista)
